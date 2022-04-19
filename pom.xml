@@ -18,7 +18,7 @@
     <modules>
         <module>backend</module>
     </modules>
-    <description>Application to watch and upload videos, as well as watch and do streamings</description>
+    <description>Application to watch and upload videos, as well as watch and do streams</description>
     <properties>
         <java.version>11</java.version>
     </properties>
